@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0/win10-arm64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {},
+    ".NETCoreApp,Version=v5.0/win10-arm64": {
+      "RectangleHelper/1.0.0": {
+        "runtime": {
+          "RectangleHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RectangleHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
